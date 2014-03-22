@@ -4,9 +4,9 @@
 define('UC_CONNECT', 'mysql');
 
 define('UC_DBHOST', 'localhost');
-define('UC_DBUSER', 'root');
-define('UC_DBPW', 'root');
-define('UC_DBNAME', 'daitou');
+define('UC_DBUSER', 'deploy');
+define('UC_DBPW', 'beSLVmxYZU');
+define('UC_DBNAME', 'weigou');
 define('UC_DBCHARSET', 'utf8');
 define('UC_DBTABLEPRE', '`daitou`.pre_ucenter_');
 define('UC_DBCONNECT', 0);

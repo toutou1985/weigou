@@ -5,11 +5,11 @@ $_config = array();
 
 // ----------------------------  CONFIG DB  ----------------------------- //
 $_config['db']['1']['dbhost'] = 'localhost';
-$_config['db']['1']['dbuser'] = 'root';
-$_config['db']['1']['dbpw'] = 'root';
+$_config['db']['1']['dbuser'] = 'deploy';
+$_config['db']['1']['dbpw'] = 'beSLVmxYZU';
 $_config['db']['1']['dbcharset'] = 'utf8';
 $_config['db']['1']['pconnect'] = '0';
-$_config['db']['1']['dbname'] = 'daitou';
+$_config['db']['1']['dbname'] = 'weigou';
 $_config['db']['1']['tablepre'] = 'pre_';
 $_config['db']['slave'] = '';
 $_config['db']['common']['slave_except_table'] = '';
